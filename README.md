@@ -18,6 +18,12 @@
     
 Welcome to Drum Kit - an interactive website that lets you unleash your inner drummer! This project allows you to play a virtual drum kit using your keyboard, mouse, or touch inputs. Experience the joy of creating rhythms and beats with a variety of drum sounds and visual feedback.
 
+
+## Creation Date
+
+This project was created on: *October 29, 2022*
+
+
 ## How to Play
 
 1. Clone this repository to your local machine or simply download the source code.
@@ -64,10 +70,6 @@ Here's a preview of the Drum Kit website:
 
 ![Demo](https://github.com/MariferVL/DrumKit/assets/99364311/d39d768d-e564-459f-9f03-320759b696eb)
 
-
-## Creation Date
-
-This project was created on: *October 29, 2022*
 
 
 ## License
